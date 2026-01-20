@@ -1,4 +1,4 @@
-### Salut, je suis Michaël 👋
+### Bonjour, je suis Michaël 👋
 
 **Ingénieur Infrastructure & Automatisation** passionné par le logiciel Libre et Open Source. Je conçois et maintiens des architectures systèmes robustes, virtualisées et sécurisées.
 
@@ -8,7 +8,7 @@
 
 ---
 
-### 🚀 Documentation Technique et Base de connaissance
+### 🚀 Documentation Technique et Base de Connaissance
 
 J'ai centralisé mes procédures, mes scripts et mes POCs dans mon dépôt principal :
 
