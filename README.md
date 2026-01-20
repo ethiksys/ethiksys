@@ -8,7 +8,7 @@
 
 ---
 
-### 🚀 Portfolio & Documentation Technique
+### 🚀 Documentation Technique et Base de connaissance
 
 J'ai centralisé mes procédures, mes scripts et mes POCs dans mon dépôt principal :
 
@@ -17,7 +17,7 @@ J'ai centralisé mes procédures, mes scripts et mes POCs dans mon dépôt princ
 
 ---
 
-### 🛠️ Stack Technique
+### 🛠️ Environnement Technique
 
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
