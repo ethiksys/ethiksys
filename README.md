@@ -23,7 +23,6 @@
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Zabbix](https://img.shields.io/badge/Monitoring-D60000?style=for-the-badge&logo=zabbix&logoColor=white)
 
-[Tes Stats GitHub ici]
 
 ---
 📍 **Disponibilité :** Ouvert aux opportunités Freelance/CDI (Remote / Pays Basque)
