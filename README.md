@@ -2,14 +2,14 @@
 
 > **Objectif :** Construire des infrastructures souveraines, sécurisées, résilientes et automatisées.
 
-### 🎯 Mes qualités
+### 🎯 Expertise & Valeur Ajoutée
 - **Expertise Terrain :** 7 ans d'expérience, du rack serveur au pipeline CI/CD.
 - **Focus Libre et Open Source :** Spécialiste Proxmox, Linux (Debian/RHEL), Docker.
 - **Approche SRE :** L'automatisation (Ansible/Bash) au service de la stabilité.
 
 ### 🛠️ Projets & Labs Récents
 
-- 🏗️ **[Infrastructure-as-Code]** : Déploiement complet et gestion d'une application web. (en cours)
+- 🏗️ **Infrastructure-as-Code** : Déploiement complet et gestion d'une application web. (en cours)
 - 🧠 **[IA locale](https://github.com/ethiksys/infrastructure/blob/main/IA/OpenWebUI-serverGPU.md)** : Déploiement d'Ollama/OpenWebUI sur infrastructure privée.
 <!-- 🔒 **[Hardening]** : Scripts de sécurisation pour environnements exposés. -->
 
@@ -25,7 +25,7 @@
 
 ---
 📍 **Disponibilité :** Ouvert aux opportunités Freelance/CDI (Remote / Pays Basque)
-💬 **Contact :** | ✉️ ethiksys@ik.me
+💬 **Contact :** ✉️ ethiksys@ik.me
 <div align="left">
   <a href="https://www.linkedin.com/in/ethiksys" target="_blank">
     <img src="https://img.shields.io/badge/Me_contacter_sur_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
