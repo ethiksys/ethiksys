@@ -23,7 +23,7 @@
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Zabbix](https://img.shields.io/badge/Monitoring-D60000?style=for-the-badge&logo=zabbix&logoColor=white)
 
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ethiksys&show_icons=true&theme=radical)
 ---
 📍 **Disponibilité :** Ouvert aux opportunités Freelance/CDI (Remote / Pays Basque)
 💬 **Contact :** | ✉️ ethiksys@ik.me
