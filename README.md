@@ -11,7 +11,7 @@
 
 - 🏗️ **[Infrastructure-as-Code]** : Déploiement complet et gestion d'une application web. (en cours)
 - 🧠 **[IA locale](https://github.com/ethiksys/infrastructure/blob/main/IA/OpenWebUI-serverGPU.md)** : Déploiement d'Ollama/OpenWebUI sur infrastructure privée.
-#- 🔒 **[Hardening]** : Scripts de sécurisation pour environnements exposés.
+<-- 🔒 **[Hardening]** : Scripts de sécurisation pour environnements exposés. -->
 
 
 ### 🛠️ Environnement Technique
