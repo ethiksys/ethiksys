@@ -24,6 +24,7 @@
 ![Zabbix](https://img.shields.io/badge/Monitoring-D60000?style=for-the-badge&logo=zabbix&logoColor=white)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ethiksys&show_icons=true&theme=radical)
+[![EthikSys's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ethiksys&theme=blue-green)](https://github.com/ethiksys/ethiksys)
 ---
 📍 **Disponibilité :** Ouvert aux opportunités Freelance/CDI (Remote / Pays Basque)
 💬 **Contact :** | ✉️ ethiksys@ik.me
