@@ -2,8 +2,8 @@
 
 **Ingénieur Infrastructure & Automatisation** passionné par le logiciel Libre et Open Source. Je conçois et maintiens des architectures systèmes robustes, virtualisées et sécurisées.
 
-- 🔭 Je travaille actuellement sur l'optimisation de **clusters Proxmox HA** et l'intégration de l'**IA locale**.
-- 🛠️ Mon cœur de métier : **Linux (Debian), Virtualisation (PVE/PBS), Conteneurisation (Docker), Scripting**.
+- 🔭 Actuellement sur l'optimisation de **clusters Proxmox HA** et l'intégration de l'**IA locale**.
+- 🛠️ Mon cœur de métier : **Linux, Virtualisation (PVE/PBS), Conteneurisation (Docker), Automatisation**.
 - 📍 Basé au **Pays Basque**.
 
 ---
