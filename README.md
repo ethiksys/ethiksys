@@ -1,21 +1,18 @@
-### Bonjour, je suis Michaël 👋
+# Michaël - Ingénieur Infrastructure & SRE 🐧
 
-**Ingénieur Infrastructure & Automatisation** passionné par le logiciel Libre et Open Source. Je conçois et maintiens des architectures systèmes robustes, virtualisées et sécurisées.
+> **Objectif :** Construire des infrastructures souveraines, résilientes et automatisées.
 
-- 🔭 Actuellement sur l'optimisation de **clusters Proxmox HA** et l'intégration de l'**IA locale**.
-- 🛠️ Mon cœur de métier : **Linux, Virtualisation (PVE/PBS), Conteneurisation (Docker), Automatisation**.
-- 📍 Basé au **Pays Basque**.
+### 🎯 Mes qualités
+- **Expertise Terrain :** 7 ans d'expérience, du rack serveur au pipeline CI/CD.
+- **Focus Libre et Open Source :** Spécialiste Proxmox, Linux (Debian/RHEL), Docker.
+- **Approche SRE :** L'automatisation (Ansible/Bash) au service de la stabilité.
 
----
+### 🛠️ Projets & Labs Récents
 
-### 🚀 Documentation Technique et Base de Connaissance
+- 🏗️ **[Infrastructure-as-Code]** : Déploiement complet et gestion d'une application web. (en cours)
+- 🧠 **[IA locale](https://github.com/ethiksys/infrastructure/blob/main/IA/OpenWebUI-serverGPU.md)** : Déploiement d'Ollama/OpenWebUI sur infrastructure privée.
+#- 🔒 **[Hardening]** : Scripts de sécurisation pour environnements exposés.
 
-J'ai centralisé mes procédures, mes scripts et mes POCs dans mon dépôt principal :
-
-#### 👉 [infrastructure](https://github.com/ethiksys/infrastructure)
-> *Base de connaissances techniques : Migrations de clusters critiques, Hardening Linux, Scripts d'automatisation et IA auto-hébergé.*
-
----
 
 ### 🛠️ Environnement Technique
 
@@ -26,9 +23,15 @@ J'ai centralisé mes procédures, mes scripts et mes POCs dans mon dépôt princ
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Zabbix](https://img.shields.io/badge/Monitoring-D60000?style=for-the-badge&logo=zabbix&logoColor=white)
 
+[Tes Stats GitHub ici]
+
 ---
+📍 **Disponibilité :** Ouvert aux opportunités Freelance/CDI (Remote / Pays Basque)
+💬 **Contact :** | ✉️ ethiksys@ik.me
 <div align="left">
   <a href="https://www.linkedin.com/in/ethiksys" target="_blank">
     <img src="https://img.shields.io/badge/Me_contacter_sur_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
+
+
