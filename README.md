@@ -1,6 +1,6 @@
 # Michaël - Ingénieur Infrastructure & SRE 🐧
 
-> **Objectif :** Construire des infrastructures souveraines, résilientes et automatisées.
+> **Objectif :** Construire des infrastructures souveraines, sécurisées, résilientes et automatisées.
 
 ### 🎯 Mes qualités
 - **Expertise Terrain :** 7 ans d'expérience, du rack serveur au pipeline CI/CD.
