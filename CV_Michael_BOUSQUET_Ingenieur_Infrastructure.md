@@ -5,7 +5,7 @@
 📍 Anglet (Mobilité : Pays Basque / Télétravail total)
 📞 06 07 81 74 60
 ✉️ ethiksys@ik.me
-🔗 [linkedin.com/in/ton-profil](https://linkedin.com/in/ethiksys)
+🔗 [linkedin](https://linkedin.com/in/ethiksys)
 
 ---
 
