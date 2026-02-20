@@ -3,7 +3,7 @@
 > **Objectif :** Construire des infrastructures souveraines, sécurisées, résilientes et automatisées. 
 
 ### 🎯 Expertise & Valeur Ajoutée
-- **Expertise Terrain :** du rack serveur au pipeline CI/CD. [Voir mes expériences](CV_Michael_BOUSQUET_Ingenieur_Infrastructure.md)
+- **Expertise Terrain :** [Voir mes expériences](CV_Michael_BOUSQUET_Ingenieur_Infrastructure.md) du rack serveur au pipeline CI/CD. 
 - **Focus Libre et Open Source :** Spécialiste Proxmox, Linux (Debian/RHEL), Docker.
 - **Approche DevOps :** L'automatisation (Ansible/Bash) au service de la stabilité.
 
