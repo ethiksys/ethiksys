@@ -1,11 +1,11 @@
-# Michaël - Ingénieur Infrastructure & SRE 🐧 
+# Michaël - Ingénieur Systèmes & Infrastructure 🐧 
 
 > **Objectif :** Construire des infrastructures souveraines, sécurisées, résilientes et automatisées. 
 
 ### 🎯 Expertise & Valeur Ajoutée
-- **Expertise Terrain :** 7 ans d'expérience, du rack serveur au pipeline CI/CD. [Voir mes expériences](CV_Michael_BOUSQUET_Ingenieur_Infrastructure.md)
+- **Expertise Terrain :** du rack serveur au pipeline CI/CD. [Voir mes expériences](CV_Michael_BOUSQUET_Ingenieur_Infrastructure.md)
 - **Focus Libre et Open Source :** Spécialiste Proxmox, Linux (Debian/RHEL), Docker.
-- **Approche SRE :** L'automatisation (Ansible/Bash) au service de la stabilité.
+- **Approche DevOps :** L'automatisation (Ansible/Bash) au service de la stabilité.
 
 ### 🛠️ Projets & Labs Récents
 
