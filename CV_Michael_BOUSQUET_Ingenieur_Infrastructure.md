@@ -1,5 +1,5 @@
 # Michaël BOUSQUET
-**INGÉNIEUR INFRASTRUCTURE & SRE (Confirmé)**
+**INGÉNIEUR SYSTÈMES & INFRASTRUCTURE (Confirmé)**
 *Spécialisé Linux, Virtualisation & Solutions Open Source*
 
 📍 Anglet (Mobilité : Pays Basque / Télétravail total)
@@ -11,7 +11,7 @@
 
 ## PROFIL
 
-Fort de **7 ans** d’évolution technique, du support terrain vers l'ingénierie système, j'ai développé une exigence opérationnelle forte. Je conçois et gère des architectures résilientes et maintenables (Proxmox HA, Docker) afin de garantir disponibilité, performance, souveraineté et sécurité des services critiques.
+Orienté souveraineté numérique, mon évolution technique du support terrain vers l'ingénierie système m’a permis de concevoir et d’exploiter des environnements de production avec une exigence opérationnelle forte : disponibilité, fiabilité et sécurité des services critiques.
 
 ---
 
@@ -28,7 +28,7 @@ Fort de **7 ans** d’évolution technique, du support terrain vers l'ingénieri
 
 ## EXPÉRIENCE PROFESSIONNELLE
 
-### **CODEACTIVE** | Administrateur d'Infrastructures & SRE
+### **CODEACTIVE** | Administrateur d'Infrastructures Sécurisées & DevOps
 *Mouguerre | 02/2023 – 10/2025*
 > *Garant de la stabilité et de la sécurité des infrastructures critiques (Site et Datacenter).*
 
@@ -46,7 +46,7 @@ Fort de **7 ans** d’évolution technique, du support terrain vers l'ingénieri
 
 - **Architecture Web & Conteneurs :** Conception d'architectures conteneurisées (Docker Compose, Traefik) et automatisation des déploiements via CI/CD (GitHub Actions, Registry)
 - **Infrastructure & Souveraineté :** Déploiement de plateaux techniques (Réseau, Postes, Serveurs) et intégration de solutions souveraines (Nextcloud, Passbolt).
-- **Réseau & Expertise N3 :** Configuration d'équipements actifs (Routeurs, Firewalls) et résolution d'incidents complexes (Matériel/Logiciel).
+- **Résolution d'incidents complexes :** réseau (DNS, firewall, VPN), sécurité (SSH, SSL/TLS) et infrastructure (Proxmox, Docker).
 
 ### **FNAC** | Responsable Rayon Technique
 *Bayonne | 2010 – 2018*
@@ -63,5 +63,5 @@ Fort de **7 ans** d’évolution technique, du support terrain vers l'ingénieri
 
 ## FORMATION
 
-- **Administrateur d’Infrastructures Sécurisées & DevOps** (Titre RNCP niveau 6) - *Simplon.co - 2024*
-- **Technicien Supérieur Systèmes et Réseaux** (Titre RNCP niveau 5) - *Simplon.co - 2023*
+- **Administrateur d’Infrastructures Sécurisées & DevOps** (RNCP niv. 6, RS5234) - *Simplon.co - 2024*
+- **Technicien Supérieur Systèmes et Réseaux** (RNCP niv. 5) - *Simplon.co - 2023*
