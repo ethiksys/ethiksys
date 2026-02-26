@@ -48,9 +48,9 @@ Orienté souveraineté numérique, mon évolution technique du support terrain v
 - **Infrastructure & Souveraineté :** Déploiement de plateaux techniques (Réseau, Postes, Serveurs) et intégration de solutions souveraines (Nextcloud, Passbolt).
 - **Résolution d'incidents complexes :** réseau (DNS, firewall, VPN), sécurité (SSH, SSL/TLS) et infrastructure (Proxmox, Docker).
 
-### **FNAC** | Responsable Rayon Technique
+### **FNAC** | Vendeur - Responsable Rayon en librairie
 *Bayonne | 2010 – 2018*
-- Gestion de la relation client, résolution de conflits complexes et gestion de stock.
+- Gestion de la relation client et éditeurs, gestion de stock.
 
 ---
 
