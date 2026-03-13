@@ -61,7 +61,7 @@ Orienté souveraineté numérique, mon évolution technique du support terrain v
 
 ---
 
-## FORMATION
+## DIPLÔMES & CERTIFICATIONS
 
 - **Administrateur d’Infrastructures Sécurisées & Certification DevOps** (RNCP niv. 6, RS5234) - *2024*
 - **Technicien Supérieur Systèmes et Réseaux** (RNCP niv. 5) - *2023*
