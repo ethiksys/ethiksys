@@ -3,11 +3,11 @@
 > **Objectif :** Construire des infrastructures souveraines, sécurisées, résilientes et automatisées. 
 
 ### 🎯 Expertise & Valeur Ajoutée
-- **Expertise Terrain :** [Voir mes expériences](CV_Michael_BOUSQUET_Ingenieur_Infrastructure.md) du rack serveur au pipeline CI/CD. 
+- **Expertise Terrain :** [Voir mes expériences](CV_Michael_BOUSQUET_Ingenieur_Infrastructure.md) 
 - **Focus Libre et Open Source :** Spécialiste Proxmox, Linux (Debian/RHEL), Docker.
 - **Approche DevOps :** L'automatisation (Ansible/Bash) au service de la stabilité.
 
-### 🛠️ Projets & Labs Récents
+### 🛠️ Projets Récents
 
 - 🏗️ **Infrastructure-as-Code** : Déploiement complet et gestion d'une application web. (en cours)
 - 🧠 **[IA locale](https://github.com/ethiksys/infrastructure/blob/main/IA/OpenWebUI-serverGPU.md)** : Déploiement d'Ollama/OpenWebUI sur infrastructure privée.
