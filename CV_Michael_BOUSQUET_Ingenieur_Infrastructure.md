@@ -71,7 +71,7 @@ Orienté souveraineté numérique, mon évolution technique du support terrain v
 ## PROJETS PERSONNELS & VEILLE
 
 - Gestion d'une infrastructure Proxmox (Cluster, Ceph, CI/CD), VLANs et auto-hébergement de services.
-- Déploiement d'une stack IA locale (Ollama, Open WebUI) sur GPU dédié pour inférence privée.
+- Déploiement d'une stack IA locale (LlamaCPP, Open WebUI) sur GPU dédié pour inférence privée.
 
 ---
 
