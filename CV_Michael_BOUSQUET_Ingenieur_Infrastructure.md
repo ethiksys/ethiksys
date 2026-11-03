@@ -32,7 +32,7 @@ Orienté souveraineté numérique, mon évolution technique du support terrain v
 *Mouguerre | 02/2023 – 10/2025*
 > *Garant de la stabilité et de la sécurité des infrastructures critiques (Site et Datacenter).*
 
-- **Haute Disponibilité :** Maintien en Condition Opérationnelle d'un cluster Proxmox VE en production. Gestion du cycle de vie des nœuds (Upgrades, Hardware) sans interruption de service.
+- **Haute Disponibilité :** Maintien en Condition Opérationnelle de deux cluster Proxmox VE en production. Gestion du cycle de vie des 6 nœuds (Upgrades, Hardware) sans interruption de service.
 - **PRA & Sauvegardes :** Refonte de la stratégie de sauvegarde et rédaction des procédures de restauration. Tests de restauration réguliers pour garantir l'intégrité des données.
 - **Réseau & Sécurité :** Gestion des accès distants (VPN), DNS/NAT/Firewall, gestion SSL/TLS. Mise en place de Redondance Internet (Failover).
 - **Automatisation :** Scripting avancé (Bash/PowerShell) pour automatiser des tâches de maintenance récurrentes et déploiement d'images standardisées de postes (WDS/PXE).
@@ -41,12 +41,26 @@ Orienté souveraineté numérique, mon évolution technique du support terrain v
 - **VoIP :** Mise en place de passerelles GSM pour appels mobiles via Zoiper et Asterisk.
 
 ### **Ethiksys (Freelance)** | Consultant Infrastructure IT
-*Anglet | 2019 – Aujourd'hui*
+*Anglet | 2024 – Aujourd'hui*
 > *Gestion d'infrastructures informatiques pour TPE/PME.*
 
 - **Architecture Web & Conteneurs :** Conception d'architectures conteneurisées (Docker Compose, Traefik) et automatisation des déploiements via CI/CD (GitHub Actions, Registry)
 - **Infrastructure & Souveraineté :** Déploiement de plateaux techniques (Réseau, Postes, Serveurs) et intégration de solutions souveraines (Nextcloud, Passbolt).
 - **Résolution d'incidents complexes :** réseau (DNS, firewall, VPN), sécurité (SSH, SSL/TLS) et infrastructure (Proxmox, Docker).
+
+### **Services Informatiques Pays Basque** | Technicien informatique
+*Anglet | 2019 – 2023*
+> *Services informatiques pour les particuliers, TPE/PME.*
+
+- Assister les utilisateurs, identifier les besoins, les conseiller
+- Configurer un poste de travail aux besoins de l'utilisateur et effectuer des tests de fonctionnement
+- Maintenir et exploiter un domaine ActiveDirectory et des serveurs Linux
+- Maintenir et exploiter un réseau local, un environnement virtualisé et sécuriser les accès Internet
+- Superviser l'infrastructure et configurer les services de déploiement et les terminaux clients léger
+- Guider l'utilisateur pour résoudre un dysfonctionnement ou prendre le contrôle du système à distance
+- Diagnostiquer et dépanner un dysfonctionnement informatique matériel ou logiciel
+- Réaliser les opérations de maintenance et de réglage sur les matériels et équipements
+- Suivre l'état des stocks, identifier les besoins en approvisionnement et établir les commandes
 
 ### **FNAC** | Vendeur - Responsable Rayon en librairie
 *Bayonne | 2010 – 2018*
