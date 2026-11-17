@@ -32,7 +32,7 @@ Orienté souveraineté numérique, mon évolution technique du support terrain v
 *Mouguerre | 02/2023 – 10/2025*
 > *Garant de la stabilité et de la sécurité des infrastructures critiques (Site et Datacenter).*
 
-- **Haute Disponibilité :** Maintien en Condition Opérationnelle de deux cluster Proxmox VE en production. Gestion du cycle de vie des 6 nœuds (Upgrades, Hardware) sans interruption de service.
+- **Haute Disponibilité :** Maintien en Condition Opérationnelle de deux clusters Proxmox VE en production. Gestion du cycle de vie des 6 nœuds (Upgrades, Hardware) sans interruption de service.
 - **PRA & Sauvegardes :** Refonte de la stratégie de sauvegarde et rédaction des procédures de restauration. Tests de restauration réguliers pour garantir l'intégrité des données.
 - **Réseau & Sécurité :** Gestion des accès distants (VPN), DNS/NAT/Firewall, gestion SSL/TLS. Mise en place de Redondance Internet (Failover).
 - **Automatisation :** Scripting avancé (Bash/PowerShell) pour automatiser des tâches de maintenance récurrentes et déploiement d'images standardisées de postes (WDS/PXE).
