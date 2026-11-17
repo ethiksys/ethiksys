@@ -35,7 +35,7 @@ Orienté souveraineté numérique, mon évolution technique du support terrain v
 - **Haute Disponibilité :** Maintien en Condition Opérationnelle de deux clusters Proxmox VE en production. Gestion du cycle de vie des 6 nœuds (Upgrades, Hardware) sans interruption de service.
 - **PRA & Sauvegardes :** Refonte de la stratégie de sauvegarde et rédaction des procédures de restauration. Tests de restauration réguliers pour garantir l'intégrité des données.
 - **Réseau & Sécurité :** Gestion des accès distants (VPN), DNS/NAT/Firewall, gestion SSL/TLS. Mise en place de Redondance Internet (Failover).
-- **Automatisation :** Scripting avancé (Bash/PowerShell) pour automatiser des tâches de maintenance récurrentes et déploiement d'images standardisées de postes (WDS/PXE).
+- **Automatisation :** Scripting avancé (Bash/PowerShell) pour automatiser des tâches de maintenance récurrentes et déploiement d'images standardisées de 50 postes (WDS/PXE).
 - **Supervision :** Déploiement de Zabbix et personnalisation de sondes pour la détection d’incidents.
 - **Gestion de services :** Installation et montées de versions critiques (GLPI, Passbolt, Nextcloud, LMS).
 - **VoIP :** Mise en place de passerelles GSM pour appels mobiles via Zoiper et Asterisk.
